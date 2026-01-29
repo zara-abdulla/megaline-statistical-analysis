@@ -6,10 +6,10 @@ This project analyzes customer behavior and revenue patterns for a telecom compa
 ---
 
 ## Project Access
-You can explore the full project, analysis, and code directly in this  
-[Notebook](/hypothesis_project.ipynb).
-
+You can explore the full project, analysis, and code directly in this [Notebook](/hypothesis_project.ipynb).
 All calculations, visualizations, and hypothesis testing steps are documented in the Jupyter Notebook.
+
+All raw datasets used for this analysis are available in [Datasets](/datasets).
 
 ---
 
