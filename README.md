@@ -72,6 +72,15 @@ Hypothesis tests were conducted to answer:
 - Do Surf and Ultimate plan users have different average monthly revenues?
 - Do users in the NY–NJ region have different average monthly revenues compared to other regions?
 
+
+---
+
+## Key Findings
+- The **Ultimate plan generates higher average monthly revenue** than the Surf plan, and the difference is statistically significant.
+- Monthly revenue differs across regions, with **users outside the NY–NJ region generating higher revenue on average**.
+- Revenue distributions are right-skewed, so **non-parametric testing (Mann–Whitney U)** was used to ensure reliable results.
+
+
 ---
 
 ## Tools & Libraries
