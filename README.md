@@ -1,5 +1,7 @@
 # Megaline Statistical Analysis
 
+![](/images/megaline.png)
+
 ## Project Overview
 This project analyzes customer behavior and revenue patterns for a telecom company by examining usage data across different mobile plans and regions. The goal is to understand how customers use calls, messages, and internet services, calculate monthly revenue, and determine whether statistically significant differences exist between plans and regions.
 
